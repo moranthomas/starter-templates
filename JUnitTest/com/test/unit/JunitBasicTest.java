@@ -13,7 +13,7 @@ import org.junit.runners.JUnit4;
 */
 
 @RunWith(JUnit4.class)
-public class JunitTest {
+public class JunitBasicTest {
     @Test
     public void thisAlwaysPasses() {
         assertEquals(2,2);
